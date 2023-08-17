@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
-body {
-	width=500px;
-}
+
 table {
+	width:300px;
+	height:150px;
 background-color: yellow;
 }
